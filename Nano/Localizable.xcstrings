@@ -1,0 +1,520 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "(%@ New)" : {
+
+    },
+    "%@" : {
+
+    },
+    "%@ deleted a message." : {
+
+    },
+    "%lld Members" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Member"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld Members"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "1 Hour" : {
+
+    },
+    "7 Days" : {
+
+    },
+    "24 Hours" : {
+
+    },
+    "30 Days" : {
+
+    },
+    "365 Days" : {
+
+    },
+    "Activity" : {
+
+    },
+    "Add Attachment" : {
+
+    },
+    "Add File" : {
+
+    },
+    "Add Group" : {
+
+    },
+    "Add Image" : {
+
+    },
+    "Add Image or Emoji" : {
+
+    },
+    "Add Photo or Video" : {
+
+    },
+    "Add Reaction" : {
+
+    },
+    "Add Reaction…" : {
+
+    },
+    "Admin" : {
+
+    },
+    "Admin Permissions" : {
+
+    },
+    "All Messages" : {
+
+    },
+    "Apply All" : {
+
+    },
+    "Apply these permissions to the existing members in the group." : {
+
+    },
+    "Apply to All Members" : {
+
+    },
+    "Archive this thread" : {
+
+    },
+    "Archive Thread" : {
+
+    },
+    "Are you sure you want to delete this message?" : {
+
+    },
+    "Are you sure you want to kick “%@”? They will be banned from the group." : {
+
+    },
+    "Are you sure you want to leave “%@”?" : {
+
+    },
+    "Attachments" : {
+
+    },
+    "Body" : {
+
+    },
+    "Callout" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Caption" : {
+
+    },
+    "Caption 2" : {
+
+    },
+    "Check Your Email" : {
+
+    },
+    "Choose Emoji" : {
+
+    },
+    "Choose Emoji…" : {
+
+    },
+    "Choose Image…" : {
+
+    },
+    "Code" : {
+
+    },
+    "Copy Text" : {
+
+    },
+    "Create" : {
+
+    },
+    "Create Account" : {
+
+    },
+    "Create Group" : {
+
+    },
+    "Create new threads" : {
+
+    },
+    "Create or join a group" : {
+
+    },
+    "Delete" : {
+
+    },
+    "Delete Message" : {
+
+    },
+    "Delete Message?" : {
+
+    },
+    "Delete messages in the group" : {
+
+    },
+    "Done" : {
+
+    },
+    "Edit" : {
+
+    },
+    "Edit Emoji" : {
+
+    },
+    "Edit Group" : {
+
+    },
+    "Edit image" : {
+
+    },
+    "Edit member permissions" : {
+
+    },
+    "Edit Profile" : {
+
+    },
+    "Edit the group details" : {
+
+    },
+    "Email" : {
+
+    },
+    "Expires after…" : {
+
+    },
+    "Footnote" : {
+
+    },
+    "Go Back" : {
+
+    },
+    "Group Details" : {
+
+    },
+    "Group ID" : {
+
+    },
+    "Group Name" : {
+
+    },
+    "Group Name:" : {
+
+    },
+    "Group Permissions" : {
+
+    },
+    "Group Role" : {
+
+    },
+    "Headline" : {
+
+    },
+    "Invite Link" : {
+
+    },
+    "Invite Links" : {
+
+    },
+    "Invite others to the group" : {
+
+    },
+    "Invited By" : {
+
+    },
+    "Join" : {
+
+    },
+    "Join Group" : {
+
+    },
+    "Joined Group" : {
+
+    },
+    "Kick Member" : {
+
+    },
+    "Kick Member?" : {
+
+    },
+    "Kick members from the group" : {
+
+    },
+    "Kicking…" : {
+
+    },
+    "Large Title" : {
+
+    },
+    "Leave" : {
+
+    },
+    "Leave Group" : {
+
+    },
+    "Leave Group?" : {
+
+    },
+    "Leaving Group…" : {
+
+    },
+    "Member" : {
+
+    },
+    "Member Permissions" : {
+
+    },
+    "Message Alerts" : {
+
+    },
+    "Message Send Failed" : {
+
+    },
+    "Messages" : {
+
+    },
+    "Name" : {
+
+    },
+    "Name:" : {
+
+    },
+    "Nano" : {
+
+    },
+    "Never" : {
+
+    },
+    "New" : {
+
+    },
+    "New Epoch" : {
+
+    },
+    "New Group" : {
+
+    },
+    "New Invite Link" : {
+
+    },
+    "New Thread" : {
+
+    },
+    "No Group Selected" : {
+
+    },
+    "No Groups" : {
+
+    },
+    "No Results" : {
+
+    },
+    "No Thread Selected" : {
+
+    },
+    "No Threads Yet" : {
+
+    },
+    "Not Found" : {
+
+    },
+    "Nothing yet." : {
+
+    },
+    "Notifications" : {
+
+    },
+    "Notify me for reactions on my messages" : {
+
+    },
+    "Notify me for replies to my messages" : {
+
+    },
+    "Notify me when someone mentions me" : {
+
+    },
+    "Off" : {
+
+    },
+    "Only Starred Threads" : {
+
+    },
+    "Only the owner can edit admin permissions or make someone an admin." : {
+
+    },
+    "Only you can edit admin permissions or make someone an admin." : {
+
+    },
+    "Open App Store" : {
+
+    },
+    "Open Camera" : {
+
+    },
+    "Owner" : {
+
+    },
+    "Paste Code" : {
+
+    },
+    "Reactions" : {
+
+    },
+    "Recovery Key" : {
+
+    },
+    "Remove" : {
+
+    },
+    "Remove from Group" : {
+
+    },
+    "Save" : {
+
+    },
+    "Save your Recovery Key before signing out to make sure that you can sign back into your account." : {
+
+    },
+    "Send" : {
+
+    },
+    "Send Failed" : {
+
+    },
+    "Send Feedback" : {
+
+    },
+    "Send Magic Link" : {
+
+    },
+    "Send messages in the group" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Sign In" : {
+
+    },
+    "Sign Out" : {
+
+    },
+    "Sign Out?" : {
+
+    },
+    "So that we can debug the problem, your feedback will include internal event logs. These logs may contain metadata about messages sent and received, but the content of your messages will never be included. Please attach anything else that you think may be helpful." : {
+
+    },
+    "Somebody" : {
+
+    },
+    "Something Went Wrong" : {
+
+    },
+    "Something went wrong." : {
+
+    },
+    "Star a thread automatically when I reply" : {
+
+    },
+    "Star this thread" : {
+
+    },
+    "Star Thread" : {
+
+    },
+    "Subheadline" : {
+
+    },
+    "Submit" : {
+
+    },
+    "The default permissions for new members." : {
+
+    },
+    "This message is not available." : {
+
+    },
+    "Thread" : {
+
+    },
+    "Title" : {
+
+    },
+    "Title 2" : {
+
+    },
+    "Title 3" : {
+
+    },
+    "Try Again" : {
+
+    },
+    "Unarchive this thread" : {
+
+    },
+    "Unarchive Thread" : {
+
+    },
+    "Unstar this thread" : {
+
+    },
+    "Unstar Thread" : {
+
+    },
+    "Update Required" : {
+
+    },
+    "User ID" : {
+
+    },
+    "View group details" : {
+
+    },
+    "We sent a magic link to %@ — tap the link to sign in." : {
+
+    },
+    "You can’t send messages in this group." : {
+
+    },
+    "You need to update this app to continue using it." : {
+
+    },
+    "You will not receive any new message notifications in this group." : {
+
+    },
+    "You will only receive notifications for messages in starred threads." : {
+
+    },
+    "You will receive a notification for every message in this group." : {
+
+    },
+    "Your Feedback" : {
+
+    },
+    "Your message was not sent. Would you like to try again?" : {
+
+    }
+  },
+  "version" : "1.0"
+}

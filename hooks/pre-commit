@@ -1,0 +1,15 @@
+#!/bin/sh
+
+exec 1>&2
+
+git diff --cached --name-only --diff-filter=d | grep -E '\.swift$' | while read file; do
+  swift-format --in-place "$file"
+  git add "$file"
+done
+
+git diff --cached --name-only --diff-filter=d | grep -E '\.(h|m)$' | while read file; do
+  sed -i '' -E 's/[[:space:]]*$//' "$file"
+  git add "$file"
+done
+
+exit 0

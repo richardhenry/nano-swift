@@ -1,0 +1,64 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "(%lld items)" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "(%lld item)"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "(%lld items)"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "(unknown)" : {
+
+    },
+    "Activity" : {
+
+    },
+    "Animals & Nature" : {
+
+    },
+    "Flags" : {
+
+    },
+    "Food & Drink" : {
+
+    },
+    "Objects" : {
+
+    },
+    "Smileys & People" : {
+
+    },
+    "Somebody" : {
+
+    },
+    "Symbols" : {
+
+    },
+    "Travel & Places" : {
+
+    },
+    "Unknown Group" : {
+
+    },
+    "Unnamed Thread" : {
+
+    }
+  },
+  "version" : "1.0"
+}

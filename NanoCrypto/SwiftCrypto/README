@@ -1,0 +1,6 @@
+This directory contains some exported internals from the Swift Crypto project, mostly related to secure memory management.
+
+The code has been modified slightly for our use case.
+
+Source:
+https://github.com/apple/swift-crypto/tree/f0525da24dc3c6cbb2b6b338b65042bc91cbc4bb/Sources

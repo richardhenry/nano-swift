@@ -1,0 +1,4 @@
+This is a C implementation of Kyber1024 from the PQClean project.
+
+Source:
+https://github.com/PQClean/PQClean/tree/3b43bc6fe46fe47be38f87af5019a7f1462ae6dd/crypto_kem/kyber1024/clean
